@@ -14,11 +14,8 @@ I am a dual-background specialist bridging the gap between **Healthcare Operatio
 ## 📂 Featured Work Samples
 
 | Project Title | Category | Skills Applied | View Sample |
-###🧠 Case Study: AI Safety Audit (Metformin & Radiology)
-Title: Format: | Summary: An operational audit of ChatGPT 4o's advice on iodinated contrast media protocols versus ACR v10.3 Guidelines.
-Key Finding: Identified "Safety Refusal Bias" where the model prioritized outdated "blanket rules" over personalized eGFR assessment.
-Skills Applied: RLHF, Hallucination Detection, Medical Protocol Analysis
 | :--- | :--- | :--- | :--- |
+| **Case Study: AI Safety Audit** <br> *(Metformin & Radiology)* | AI / RLHF Audit | Hallucination Detection, Medical Protocol Analysis, Safety Refusal Bias | [🌐 Read on Medium](https://medium.com/@dmezes/2bb2428ad721?source=friends_link&sk=04b3d346bbcf88725142d278c4fd8565) <br> [📄 View PDF](./ChatGPT-Metformin-Audit.pdf) |
 | **Starting Metformin Without Panic** | Patient Education | Health Literacy, Empathy, Simplification | [📄 View PDF](patient-education-metformin.pdf) |
 | **The Energy Thief: Statins & CoQ10** | Medical/Biochem | Research, Mechanism Explanation, Fact-Checking | [📄 View PDF](biochemical-mechanism-statins.pdf) |
 | **Metsovo vs. Zagori Guide** | SEO Content | Audience Personas, Local SEO, Tone Adaptation | [📄 View PDF](seo-content-real-estate.pdf) |
