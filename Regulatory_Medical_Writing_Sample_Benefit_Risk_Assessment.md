@@ -197,4 +197,4 @@ The recent regulatory removal of psychiatric safety warnings further reinforces 
 2. HIGHLIGHTS OF PRESCRIBING INFORMATION These highlights do not include all the information needed to use MOUNJARO safely and effe - accessdata.fda.gov. Accessed February 25, 2026. https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/215866s000lbl.pdf
 3. Comparative Renal Safety of Tirzepatide and Semaglutide: An FDA Adverse Event Reporting System (FAERS)—Disproportionality Study - PMC. Accessed February 25, 2026. https://pmc.ncbi.nlm.nih.gov/articles/PMC12610529/
 4. Comparative Renal Safety of Tirzepatide and Semaglutide: An FDA Adverse Event Reporting System (FAERS)—Disproportionality Study - MDPI. Accessed February 25, 2026. https://www.mdpi.com/2077-0383/14/21/7678
-5. Consensus Recommendations on GLP-1 RA Use in the Management of Type 2 Diabetes Mellitus: South Asian Task Force - PMC. Accessed February 25, 2026. https://pmc.ncbi.nlm.nih.gov/... *(Replace with full URL if available)*
+5. Consensus Recommendations on GLP-1 RA Use in the Management of Type 2 Diabetes Mellitus: South Asian Task Force - PMC. Accessed February 25, 2026. https://pmc.ncbi.nlm.nih.gov/...
